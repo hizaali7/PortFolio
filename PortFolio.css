@@ -153,10 +153,10 @@ nav a{
 
 .fg-img{
   position: absolute;
-  width: 250px;
+  width: 280px;
   height: auto;
-  bottom: 60px;
-  right: 50px;
+  bottom: 90px;
+  right: 110px;
   border-bottom-right-radius: -50%;
   border-bottom-left-radius: -50%;
   z-index: 10;
